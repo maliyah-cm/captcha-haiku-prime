@@ -1,1 +1,0 @@
-# haiku-captcha-2026
