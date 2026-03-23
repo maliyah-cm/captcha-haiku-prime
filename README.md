@@ -1,1 +1,0 @@
-# captcha-haiku-prime
